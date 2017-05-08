@@ -1389,9 +1389,10 @@ body  { margin: 0;}
   font-size: 40px;
 }
 
-.dispensing_state .dispensing-bill {
+/* Original dispensing image replaced, see: https://github.com/MrCoin/lamassu-machine/issues/2 */
+.dispensing_state .dispensing-bill-full {
   position: absolute;
-  top: 280px;
+  bottom: 0;
   left: 804px;
 }
 
