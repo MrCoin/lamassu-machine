@@ -2073,6 +2073,18 @@ body  { margin: 0;}
   border-radius: 11%/50%;
 }
 
+.terms_screen_state .content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-content: stretch;
+}
+
+.terms_screen_state .description {
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+
 @-webkit-keyframes pulse-out {
   0% {
   }
