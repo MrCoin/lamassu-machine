@@ -40,7 +40,7 @@ msgstr "Please enter the mobile number you used when you placed your order."
 
 #: On screen: register-phone
 msgid "Please enter your mobile number for ID verification."
-msgstr "Please enter your mobile number for ID verification."
+msgstr "Please enter your mobile number for ID verification.<br>Phone number format: +36 30 123 4567"
 
 #: On screen: register-phone
 msgid "Clear"
